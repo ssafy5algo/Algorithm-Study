@@ -9,7 +9,7 @@
  
 #### ✏️스터디 문제
 
-- ##### [공통 문제 10개](https://www.acmicpc.net/group/workbook/list/10018)
+- ##### [공통 문제 7 ~ 10개](https://www.acmicpc.net/group/workbook/list/10018)
 
 ###
 ## 💡공유방법
