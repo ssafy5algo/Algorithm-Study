@@ -6,11 +6,11 @@
 
 ### ✏️ [프로그래머스 문제 목록]
 |No.|문제 번호|문제 이름|알고리즘 분류|
-|:---:|:---:|:---|:---:| 
-|1|72410|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|문자열| 
-|2|60057|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|문자열| 
-|3|60058|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|문자열|
-|4|72411|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|문자열, 조합|
-|5|72412|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|이분탐색, SusSet|
-|6||[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|완전 탐색| 
-|7||[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|트라이 구조|
+|:---:|:---:|:---|:---:|
+|1|67256|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|구현| 
+|2|67257|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|순열| 
+|3|67258|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|Set, Map 자료구조|
+|4|67256|[경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)|BFS|
+|5|64062|[징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)|이분탐색|
+|6|64065|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|문자열| 
+|7|64064|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|트라이 구조|
